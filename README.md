@@ -34,6 +34,8 @@ The following libraries are used in this project:
 - supervision
 - shutil
 - scikit-learn
+- matplotlib
+- pillow
 
 ## Usage
 
