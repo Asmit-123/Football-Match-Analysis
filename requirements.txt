@@ -1,0 +1,9 @@
+ultralytics
+numpy
+opencv-python
+roboflow
+pandas
+supervision
+scikit-learn
+matplotlib
+pillow
