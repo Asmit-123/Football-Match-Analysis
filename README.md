@@ -76,3 +76,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 Special thanks to the YOLOv8 team and the contributors of the libraries used in this project for their valuable contributions to the field of object detection and analysis in computer vision.
+
+## Note
+
+- Some files like the models used, .pt(PyTorch) files used and the prediction videos are not attached as they could not be pushed.
+- For viewing/getting those files please contact me. I'll be very happy to help.
+- Also make sure that the main.py file is running in a virtual environment else there might be a few errors appearing very different from the desired output(s).
